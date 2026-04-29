@@ -15,5 +15,21 @@ I am a Ph.D. student at ...
 
 ## Resources Download
 
-- <a href="./downloads/test.docx" download>Download Test Word File (.docx)</a>
-- <a href="./downloads/test.xlsx" download>Download Test Excel File (.xlsx)</a>
+<table>
+  <thead>
+    <tr>
+      <th>数据库类型</th>
+      <th>下载</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>文档型（示例）</td>
+      <td><a href="./downloads/test.docx" download>Download Test Word File (.docx)</a></td>
+    </tr>
+    <tr>
+      <td>表格型（示例）</td>
+      <td><a href="./downloads/test.xlsx" download>Download Test Excel File (.xlsx)</a></td>
+    </tr>
+  </tbody>
+</table>
